@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi There 👋, I'm Erni Veronica Sidabutar</h1>
 <h3 align="center">A Passionate UI Design</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1kc1&psig=AOvVaw2aoBB9ubIXgBHfMby5SS4c&ust=1703215961434000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiX_YvMn4MDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/1kc1.gif">
+
 
 - 🌱 I’m currently learning **Framework Laravel**
 - 📄 Know about my experiences [https://derawanescape.000webhostapp.com/](https://derawanescape.000webhostapp.com/)
