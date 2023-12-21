@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img  align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <h1 align="center">Hi There 👋, I'm Erni Veronica Sidabutar</h1>
 <h3 align="center">A Passionate UI Design</h3>
-<img alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
-
 
 - 🌱 I’m currently learning **Framework Laravel**
 - 📄 Know about my experiences [https://derawanescape.000webhostapp.com/](https://derawanescape.000webhostapp.com/)
