@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Framework Laravel**
 - 📄 Know about my experiences [https://derawanescape.000webhostapp.com/](https://derawanescape.000webhostapp.com/)
-- ⚡ Fun fact **I am an information systems student who prioritizes honesty and integrity as the main foundation in life.**
+- ⚡ Fun fact **I love the beauty of the beach and the ocean, but who would have thought, I have a fear of the deep! Nonetheless, the serenity and beauty of the beach inspires me to find peace as I do when listening to spiritual songs. Peace in fear, that's where I find harmony between love for nature and inner peace! 🌊🎶✨.**
 
 ***
 
@@ -41,9 +41,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erniveronica&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/erniveronica/your-repo-name/main/path-to-your-snake-image-folder/snake.svg" alt="Snake animation" />
 
 
