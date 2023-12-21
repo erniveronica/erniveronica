@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img align="center" width="100%" height="10%" alt="Coding" src="https://cdn.kqed.org/wp-content/uploads/sites/23/2014/10/Simona-Math.gif">
+ <img align="center" width="80%" height="10%" alt="Coding" src="https://cdn.kqed.org/wp-content/uploads/sites/23/2014/10/Simona-Math.gif">
  
 <h1 align="center">Hi There 👋, I'm Erni Veronica Sidabutar</h1>
 <h3 align="center">A Passionate UI Design</h3>
